@@ -1,0 +1,8 @@
+# pip install -r requirements.txt
+###### Requirements without Version Specifiers ######
+fpdf
+sv_ttk
+pillow
+json
+pypdf
+###### Requirements with Version Specifiers ######
